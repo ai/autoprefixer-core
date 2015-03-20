@@ -140,7 +140,7 @@ var sourcemaps = require('gulp-sourcemaps');
 
 gulp.task('css', function () {
     var processors = [
-        require('autoprefixer')('last 1 version'),
+        require('autoprefixer-core')('last 1 version'),
         require('css-mqpacker'),
         require('csswring')
      ];
