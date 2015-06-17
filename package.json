@@ -30,6 +30,7 @@
         "gulp":                "3.9.0"
     },
     "scripts": {
-        "test": "gulp"
+        "test": "gulp",
+        "build": "gulp build"
     }
 }
