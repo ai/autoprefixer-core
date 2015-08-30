@@ -1,0 +1,14 @@
+{
+  "name": "autoprefixer-core",
+  "version": "0.0.0",
+  "description": "autoprefixer-core was depreacted",
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ai/autoprefixer-core.git"
+  },
+  "dependencies": {
+    "autoprefixer": "~5.2.0"
+  }
+}
