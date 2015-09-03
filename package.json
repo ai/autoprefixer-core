@@ -1,7 +1,7 @@
 {
   "name": "autoprefixer-core",
   "version": "0.0.0",
-  "description": "autoprefixer-core was depreacted",
+  "description": "autoprefixer-core was depreacted, use autoprefixer",
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
   "repository": {
